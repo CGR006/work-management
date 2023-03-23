@@ -1,2 +1,2 @@
-# work-managment
+# work-management
 A simple and base-level GUI for planning using Tkinter(for the first time)
